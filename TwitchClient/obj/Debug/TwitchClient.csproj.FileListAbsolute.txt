@@ -1,0 +1,13 @@
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\TwitchClient.exe.config
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\TwitchClient.exe
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\bin\Debug\TwitchClient.pdb
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\MainWindow.baml
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\MainWindow.g.cs
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\App.g.cs
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient_MarkupCompile.cache
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.g.resources
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.exe
+c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.pdb
