@@ -17,12 +17,14 @@ namespace TwitchClient
         public string Viewers { get; set; }
         public string Name { get; set; }
         public string Small { get; set; }
-        public Game(string channels, string viewers, string name, string small)
+        public string Large { get; set; }
+        public Game(string channels, string viewers, string name, string small, string large)
         {
             Channels = channels;
             Viewers = viewers;
             Name = name;
             Small = small;
+            Large = large;
         }
     }
 
@@ -60,7 +62,7 @@ namespace TwitchClient
         {
             foreach (TopModel currenGame in mm.top)
             {
-                cg.Add(new Game("Channels: " + currenGame.channels.ToString(), "Viewers: " + currenGame.viewers.ToString(), currenGame.game.name , currenGame.game.box.small));
+                cg.Add(new Game("Channels: " + currenGame.channels.ToString(), "Viewers: " + currenGame.viewers.ToString(), currenGame.game.name, currenGame.game.box.small, currenGame.game.box.large));
             }
             allGames = cg;
             RaisePropertyChanged("AllGames");
