@@ -9,14 +9,17 @@
                 <DataTemplate>
                     <Border Margin="5" Padding="20" BorderThickness="1" BorderBrush="SteelBlue" CornerRadius="4" Width="450">
                         <Grid Margin="3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
                             <Grid.RowDefinitions>
                                 <RowDefinition/>
-                                <RowDefinition/>
-                                <RowDefinition/>
                             </Grid.RowDefinitions>
-                            <TextBlock Grid.Row="0" FontWeight="Bold" Text="{Binding Path=Name}" Foreground="#073784"/>
-                            <TextBlock Grid.Row="1" FontWeight="Normal" Text="{Binding Path=Channels}"/>
-                            <TextBlock Grid.Row="2" FontWeight="Normal" Text="{Binding Path=Viewers}"/>
+                            <Image Grid.Column="0" Grid.Row="0" Width="80" Source="{Binding Path=Small}"/>
+                            <TextBlock Margin="10, 0,0,0" Grid.Row="0" Grid.Column="1" FontWeight="Bold" FontSize="25" Text="{Binding Path=Name}" Foreground="#073784"/>
+                            <TextBlock Margin="10,30,0,0" Grid.Row="0" Grid.Column="1" FontWeight="Normal" FontSize="20" Text="{Binding Path=Channels}"/>
+                            <TextBlock Margin="10,60,0,0" Grid.Row="0" Grid.Column="1" FontWeight="Normal" FontSize="20" Text="{Binding Path=Viewers}"/>
                         </Grid>
                     </Border>
                 </DataTemplate>

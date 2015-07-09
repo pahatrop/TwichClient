@@ -41,16 +41,17 @@ namespace TwitchClient
     {
          [DataMember]
         public string name;
-         /*[DataMember]
+         [DataMember]
         public int _id;
          [DataMember]
         public int giantbomb_id;
          [DataMember]
         public BoxModel box;
          [DataMember]
-        public LogoModel logo;*/
+        public LogoModel logo;
     }
-    public class ImageModel
+     [DataContract]
+    public class BoxModel
     {
         [DataMember]
         public string large;
@@ -62,11 +63,15 @@ namespace TwitchClient
         public string template;
     }
      [DataContract]
-    public class BoxModel : ImageModel
+    public class LogoModel
     {
-    }
-     [DataContract]
-    public class LogoModel : ImageModel
-    {
+        [DataMember]
+        public string large;
+        [DataMember]
+        public string medium;
+        [DataMember]
+        public string small;
+        [DataMember]
+        public string template;
     }
 }

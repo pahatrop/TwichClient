@@ -11,3 +11,16 @@ c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\o
 c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.csproj.GenerateResource.Cache
 c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.exe
 c:\users\pavel\documents\visual studio 2013\Projects\TwitchClient\TwitchClient\obj\Debug\TwitchClient.pdb
+C:\Users\pavel\TwichClient\TwitchClient\bin\Debug\TwitchClient.exe.config
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\TwitchClient.exe
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\TwitchClient.pdb
+C:\Users\pavel\TwichClient\TwitchClient\bin\Debug\TwitchClient.exe
+C:\Users\pavel\TwichClient\TwitchClient\bin\Debug\TwitchClient.pdb
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\TwitchClient.csprojResolveAssemblyReference.cache
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\MainWindow.baml
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\MainWindow.g.cs
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\App.g.cs
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\TwitchClient_MarkupCompile.cache
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\TwitchClient.g.resources
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\TwitchClient.Properties.Resources.resources
+C:\Users\pavel\TwichClient\TwitchClient\obj\Debug\TwitchClient.csproj.GenerateResource.Cache
